@@ -1,0 +1,27 @@
+{
+    "products" : [
+        {
+            "name" : "Chair",
+            "price" : 460,
+            "desc" : "Super-duper bla bla"
+        },{
+            "name" : "Chair",
+            "price" : 460,
+            "desc" : "Super-duper bla bla"
+        },{
+            "name" : "Chair",
+            "price" : 460,
+            "desc" : "Super-duper bla bla"
+        }
+    ],
+
+    "Library" : {
+        "Books" : [],
+        "Authors" : {
+            "Sam" : {"genre": "Novels"},
+            "Ravi": {}
+        }        
+    }
+
+
+}
